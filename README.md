@@ -1,2 +1,3 @@
-# Java_Stuff
+# Java
+
 收录一些基于Java的小程序、小灵感、小想法等。
